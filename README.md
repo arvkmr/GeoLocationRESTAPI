@@ -1,5 +1,5 @@
 # GeoLocationRESTAPI
-A basic REST API for geo locations around given GPS cordinates 
+A basic REST API for geo locations around given GPS cordinates. This was made for a small class project.
 
 The project is a Java based API and uses GPS coordinates to provide a list of points of
 interest around any given GPS coordinates. All the points so far have been extracted
